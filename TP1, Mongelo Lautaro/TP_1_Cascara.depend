@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1504797226 source:c:\users\alumno\desktop\tp_1_cascara\prototipos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504793202 c:\users\alumno\desktop\tp_1_cascara\funciones.h
+
+1504793263 source:c:\users\alumno\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504809055 source:c:\users\lautaro\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504809542 c:\users\lautaro\desktop\tp_1_cascara\funciones.h
+
+1504796995 source:c:\users\lautaro\desktop\tp_1_cascara\prototipos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504878443 source:c:\users\lautaro\desktop\tp1, mongelo lautaro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1504878443 c:\users\lautaro\desktop\tp1, mongelo lautaro\funciones.h
+
+1504878444 source:c:\users\lautaro\desktop\tp1, mongelo lautaro\prototipos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
